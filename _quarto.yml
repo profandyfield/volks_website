@@ -7,7 +7,7 @@ website:
     pinned: true
     logo: /images/logo.png
     left:
-      - text: " Magnus Volk"
+      - text: "Magnus Volk"
       - href: pages/magnus.qmd
       - text: "About the DLL"
         href: pages/dll.qmd
