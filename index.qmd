@@ -8,6 +8,6 @@ about:
 ## Brighton's Magnificent Daddy Long Legs!
 
 ::: {#about-block}
-- [How it Works](pages/works.html): How did the daddy long legs work.
-- [Fish-eye view](pages/fish.html): View from the fish.
+-   [How it Works](pages/works.html): How did the daddy long legs work.
+-   [Fish-eye view](pages/fish.html): View from the fish.
 :::
