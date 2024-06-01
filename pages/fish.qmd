@@ -7,4 +7,4 @@ editor: visual
 Blah blah blah
 
 
-{{< video volkspioneer.netlify.app/images/fish_small.mp4 >}}
+{{< video https://volkspioneer.netlify.app/images/fish_small.mp4 >}}
