@@ -7,9 +7,11 @@ website:
     pinned: true
     logo: /images/logo.png
     left:
-      - text: "How it works"
-        href: pages/works.qmd
-      - text: "I'm a fish"
+      - text: " Magnus Volk"
+      - href: pages/magnus.qmd
+      - text: "About the DLL"
+        href: pages/dll.qmd
+      - text: "Fish eye view"
         href: pages/fish.qmd
   search: 
     location: navbar
