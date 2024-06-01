@@ -1,0 +1,10 @@
+---
+title: "Fish-eye view"
+editor: visual
+---
+
+
+Blah blah blah
+
+
+{{< video ../images/fish_small.mp4 >}}

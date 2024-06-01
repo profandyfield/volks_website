@@ -1,0 +1,13 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image: "images/cover_pic.jpg"
+---
+
+## Brighton's Magnificent Daddy Long Legs!
+
+::: {#about-block}
+- [How it Works](pages/works.html): How did the DLL work.
+- [Fish-eye view](pages/fish.html): View from the fish.
+:::
