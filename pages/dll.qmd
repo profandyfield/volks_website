@@ -1,0 +1,28 @@
+---
+title: "About the Daddy Long Legs"
+author: "zach and andy"
+---
+
+## What was the daddy long legs
+
+Blah blah blah
+
+
+{{< video https://volkspioneer.netlify.app/images/magnus_about_small.mp4 >}}
+
+
+## History of the daddy long legs
+
+
+Blah blah blah
+
+
+{{< video https://volkspioneer.netlify.app/images/magnus_history_small.mp4 >}}
+
+
+## How did it work?
+
+Blah blah blah
+
+
+{{< video https://volkspioneer.netlify.app/images/engineer_small.mp4 >}}

@@ -1,0 +1,9 @@
+---
+title: "Magnus Volk" 
+---
+
+
+Blah blah blah
+
+
+{{< video https://volkspioneer.netlify.app/images/magnus_volk_intro_small.mp4 >}}

@@ -8,11 +8,13 @@ website:
     logo: /images/logo.png
     left:
       - text: "Magnus Volk"
-      - href: pages/magnus.qmd
+        href: pages/magnus.qmd
       - text: "About the DLL"
         href: pages/dll.qmd
       - text: "Fish eye view"
         href: pages/fish.qmd
+      - text: "Credits"
+        href: pages/credits.qmd
   search: 
     location: navbar
     type: textbox

@@ -1,0 +1,24 @@
+---
+title: "Credits"
+---
+
+This website was created by Zachary Field and his Dad. 
+
+Zach did the following:
+
+- Researched all the information on the DLL
+- Found images
+- Wrote all of the scripts for the videos
+- Wrote all of the text on the website
+- Chose the costumes
+
+Zach's dad did the following
+
+- Set up the skeleton website using [quarto](https://quarto.org) a markdown-based system for writing html (and thereforer easy for kids to learn)
+- Filmed the videos
+- Wrote this page
+
+Together they
+
+- Edited the videos (Dad showed Zach what to do using [Camtasia](https://www.techsmith.com/camtasia), then he did it)
+- Edited the website (Zach learnt some Markdown, and pretended to be interested in [Github](https://github.com/) and [netlify](https://app.netlify.com))
