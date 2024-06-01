@@ -1,29 +1,8 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Daddy long legs",
-    "section": "",
-    "text": "How it Works: How did the daddy long legs work.\nFish-eye view: View from the fish."
-  },
-  {
-    "objectID": "index.html#brightons-magnificent-daddy-long-legs",
-    "href": "index.html#brightons-magnificent-daddy-long-legs",
-    "title": "The Daddy long legs",
-    "section": "",
-    "text": "How it Works: How did the daddy long legs work.\nFish-eye view: View from the fish."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\n[1] 2"
-  },
-  {
-    "objectID": "pages/fish.html",
-    "href": "pages/fish.html",
-    "title": "Fish-eye view",
+    "objectID": "pages/magnus.html",
+    "href": "pages/magnus.html",
+    "title": "Magnus Volk",
     "section": "",
     "text": "Blah blah blah"
   },
@@ -49,20 +28,6 @@
     "text": "History of the daddy long legs\nBlah blah blah"
   },
   {
-    "objectID": "pages/dll.html#hsow-did-it-work",
-    "href": "pages/dll.html#hsow-did-it-work",
-    "title": "About the Daddy Long Legs",
-    "section": "Hsow did it work?",
-    "text": "Hsow did it work?\nBlah blah blah"
-  },
-  {
-    "objectID": "pages/magnus.html",
-    "href": "pages/magnus.html",
-    "title": "Magnus Volk",
-    "section": "",
-    "text": "Blah blah blah"
-  },
-  {
     "objectID": "pages/dll.html#how-did-it-work",
     "href": "pages/dll.html#how-did-it-work",
     "title": "About the Daddy Long Legs",
@@ -70,10 +35,38 @@
     "text": "How did it work?\nBlah blah blah"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Daddy long legs",
+    "section": "",
+    "text": "How it Works: How did the daddy long legs work.\nFish-eye view: View from the fish."
+  },
+  {
+    "objectID": "index.html#brightons-magnificent-daddy-long-legs",
+    "href": "index.html#brightons-magnificent-daddy-long-legs",
+    "title": "The Daddy long legs",
+    "section": "",
+    "text": "How it Works: How did the daddy long legs work.\nFish-eye view: View from the fish."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n[1] 2"
+  },
+  {
     "objectID": "pages/credits.html",
     "href": "pages/credits.html",
     "title": "Credits",
     "section": "",
     "text": "This website was created by Zachary Field and his Dad.\nZach did the following:\n\nResearched all the information on the DLL\nFound images\nWrote all of the scripts for the videos\nWrote all of the text on the website\nChose the costumes\n\nZach’s dad did the following\n\nSet up the skeleton website using quarto a markdown-based system for writing html (and thereforer easy for kids to learn)\nFilmed the videos\nWrote this page\n\nTogether they\n\nEdited the videos (Dad showed Zach what to do using Camtasia, then he did it)\nEdited the website (Zach learnt some Markdown, and pretended to be interested in Github and netlify)"
+  },
+  {
+    "objectID": "pages/fish.html",
+    "href": "pages/fish.html",
+    "title": "Fish-eye view",
+    "section": "",
+    "text": "Blah blah blah"
   }
 ]
