@@ -5,7 +5,7 @@ website:
   favicon: favicon.png
   navbar:  
     pinned: true
-    logo: /images/logo.png
+    logo: favicon.png
     left:
       - text: "Magnus Volk"
         href: pages/magnus.qmd
