@@ -1,11 +1,10 @@
 ---
 title: "About the Daddy Long Legs"
-author: "zach and andy"
 ---
 
 ## What was the daddy long legs
 
-Blah blah blah
+Magnus Volk tells you about the daddy long legs
 
 
 {{< video https://volkspioneer.netlify.app/images/magnus_about_small.mp4 >}}
@@ -13,16 +12,14 @@ Blah blah blah
 
 ## History of the daddy long legs
 
-
-Blah blah blah
-
+Magnus Volk tells you about the history of the daddy long legs
 
 {{< video https://volkspioneer.netlify.app/images/magnus_history_small.mp4 >}}
 
 
-## How did it work?
+## How did it work
 
-Blah blah blah
+Sir Fliberdy Walshire who has a PhD in engineering and is a graduate from Lancaster University tells you about how the daddy long legs worked.
 
 
 {{< video https://volkspioneer.netlify.app/images/engineer_small.mp4 >}}

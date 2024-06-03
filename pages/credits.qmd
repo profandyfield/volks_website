@@ -2,9 +2,9 @@
 title: "Credits"
 ---
 
-This website was created by Zachary Field and his Dad. 
+This website was created by Zachary Field and his Dad. You can view the code at [https://github.com/profandyfield/volks_website](https://github.com/profandyfield/volks_website)
 
-Zach did the following:
+Zachary did the following:
 
 - Researched all the information on the DLL
 - Found images
@@ -12,13 +12,13 @@ Zach did the following:
 - Wrote all of the text on the website
 - Chose the costumes
 
-Zach's dad did the following
+Zachary's dad did the following:
 
-- Set up the skeleton website using [quarto](https://quarto.org) a markdown-based system for writing html (and thereforer easy for kids to learn)
+- Set up the skeleton website using [quarto](https://quarto.org) a markdown-based system for writing html (and therefore easy for kids to learn)
 - Filmed the videos
 - Wrote this page
 
-Together they
+Team effort:
 
-- Edited the videos (Dad showed Zach what to do using [Camtasia](https://www.techsmith.com/camtasia), then he did it)
-- Edited the website (Zach learnt some Markdown, and pretended to be interested in [Github](https://github.com/) and [netlify](https://app.netlify.com))
+- Editing the videos: Dad showed Zachary what to do using [Camtasia](https://www.techsmith.com/camtasia) for the first video, then Zachary did the other videos (with some verbal prompts)
+- Editing the website: Dad showed Zachary some basic Markdown, and helped him to use it to change the website menues, add links, insert the videos. Zachary pretended to be interested in [Github](https://github.com/) and [netlify](https://app.netlify.com))

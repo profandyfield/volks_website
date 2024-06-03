@@ -2,8 +2,7 @@
 title: "Fish-eye view"
 ---
 
-
-Blah blah blah
+A fish explains why the daddy long legs was not a happy sight for everyone.
 
 
 {{< video https://volkspioneer.netlify.app/images/fish_small.mp4 >}}

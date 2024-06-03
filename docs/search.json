@@ -4,49 +4,49 @@
     "href": "pages/magnus.html",
     "title": "Magnus Volk",
     "section": "",
-    "text": "Blah blah blah"
+    "text": "Magnus Volk was the inventor of the daddy long legs. In this clip he will tell you about his life."
   },
   {
     "objectID": "pages/dll.html",
     "href": "pages/dll.html",
     "title": "About the Daddy Long Legs",
     "section": "",
-    "text": "Blah blah blah"
+    "text": "Magnus Volk tells you about the daddy long legs"
   },
   {
     "objectID": "pages/dll.html#what-was-the-daddy-long-legs",
     "href": "pages/dll.html#what-was-the-daddy-long-legs",
     "title": "About the Daddy Long Legs",
     "section": "",
-    "text": "Blah blah blah"
+    "text": "Magnus Volk tells you about the daddy long legs"
   },
   {
     "objectID": "pages/dll.html#history-of-the-daddy-long-legs",
     "href": "pages/dll.html#history-of-the-daddy-long-legs",
     "title": "About the Daddy Long Legs",
     "section": "History of the daddy long legs",
-    "text": "History of the daddy long legs\nBlah blah blah"
+    "text": "History of the daddy long legs\nMagnus Volk tells you about the history of the daddy long legs"
   },
   {
     "objectID": "pages/dll.html#how-did-it-work",
     "href": "pages/dll.html#how-did-it-work",
     "title": "About the Daddy Long Legs",
-    "section": "How did it work?",
-    "text": "How did it work?\nBlah blah blah"
+    "section": "How did it work",
+    "text": "How did it work\nSir Fliberdy Walshire who has a PhD in engineering and is a graduate from Lancaster University tells you about how the daddy long legs worked."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "The Daddy long legs",
     "section": "",
-    "text": "How it Works: How did the daddy long legs work.\nFish-eye view: View from the fish."
+    "text": "The daddy long legs was part train, part boat, and part car. I think it is the craziest invention ever. This website is about the weird and wonderful daddy long legs"
   },
   {
     "objectID": "index.html#brightons-magnificent-daddy-long-legs",
     "href": "index.html#brightons-magnificent-daddy-long-legs",
     "title": "The Daddy long legs",
     "section": "",
-    "text": "How it Works: How did the daddy long legs work.\nFish-eye view: View from the fish."
+    "text": "The daddy long legs was part train, part boat, and part car. I think it is the craziest invention ever. This website is about the weird and wonderful daddy long legs"
   },
   {
     "objectID": "about.html",
@@ -60,13 +60,13 @@
     "href": "pages/credits.html",
     "title": "Credits",
     "section": "",
-    "text": "This website was created by Zachary Field and his Dad.\nZach did the following:\n\nResearched all the information on the DLL\nFound images\nWrote all of the scripts for the videos\nWrote all of the text on the website\nChose the costumes\n\nZach’s dad did the following\n\nSet up the skeleton website using quarto a markdown-based system for writing html (and thereforer easy for kids to learn)\nFilmed the videos\nWrote this page\n\nTogether they\n\nEdited the videos (Dad showed Zach what to do using Camtasia, then he did it)\nEdited the website (Zach learnt some Markdown, and pretended to be interested in Github and netlify)"
+    "text": "This website was created by Zachary Field and his Dad. You can view the code at https://github.com/profandyfield/volks_website\nZachary did the following:\n\nResearched all the information on the DLL\nFound images\nWrote all of the scripts for the videos\nWrote all of the text on the website\nChose the costumes\n\nZachary’s dad did the following:\n\nSet up the skeleton website using quarto a markdown-based system for writing html (and therefore easy for kids to learn)\nFilmed the videos\nWrote this page\n\nTeam effort:\n\nEditing the videos: Dad showed Zachary what to do using Camtasia for the first video, then Zachary did the other videos (with some verbal prompts)\nEditing the website: Dad showed Zachary some basic Markdown, and helped him to use it to change the website menues, add links, insert the videos. Zachary pretended to be interested in Github and netlify)"
   },
   {
     "objectID": "pages/fish.html",
     "href": "pages/fish.html",
     "title": "Fish-eye view",
     "section": "",
-    "text": "Blah blah blah"
+    "text": "A fish explanes why the daddy long legs was not a happy sight for everyone."
   }
 ]
