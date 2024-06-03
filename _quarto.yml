@@ -2,7 +2,7 @@ website:
   title: "The Daddy long legs"                                # Your name
   description: "The daddy long legs"   # A brief slogan (optional)
   image: images/cover_pic.jpg
-  favicon: images/favicon.png
+  favicon: favicon.png
   navbar:  
     pinned: true
     logo: /images/logo.png
